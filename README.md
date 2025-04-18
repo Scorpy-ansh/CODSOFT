@@ -1,7 +1,7 @@
 # 🌟 CodSoft UI/UX Internship Tasks
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/CODSOFT?color=blue)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/CODSOFT?color=green)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Scorpy-ansh/CODSOFT?color=blue)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Scorpy-ansh/CODSOFT?color=green)
 ![Made with](https://img.shields.io/badge/Made%20with-Figma-orange?logo=figma)
 
 ---
